@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Brocoli"
+    },
+    {
+        "id": 2,
+        "name": "Cucumber"
+    },
+    {
+        "id": 3,
+        "name": "Pumkin"
+    },
+    {
+        "id": 4,
+        "name": "Cauli Flower"
+    },
+    {
+        "id": 5,
+        "name": "Onion"
+    },
+    {
+        "id": 6,
+        "name": "Apple"
+    },
+    {
+        "id": 7,
+        "name": "Banana"
+    }
+]
